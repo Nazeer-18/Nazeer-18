@@ -1,4 +1,4 @@
-### Hi  👋I am Shaik Nazeer. I am a passionate of explore more and learn new things
+### Hi  👋I am Shaik Nazeer. I am a passionate to explore more and learn new things
 
 
 - 🔭 I’m currently working on Full Stack Development
