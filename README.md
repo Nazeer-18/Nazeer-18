@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Full Stack Development
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning cp
 - 👯 I’m looking to collaborate on Website / App development
 - 📫 How to reach me: <a href = "https://www.linkedin.com/in/shaik-nazeer-798243216"><img src = "https://img.icons8.com/color/344/linkedin.png" alt = "Linked in" width = "25" height = "25" /></a>
 - 👨🏻‍💻Student at Amrita Vishwa Vidyapeetham , Chennai Campus🏫
