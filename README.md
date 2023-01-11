@@ -1,4 +1,3 @@
-<img align="center" height=400 src="https://wallpaperaccess.com/full/983826.jpg">
 <h1 align="center">Shaik Nazeer's GitHub</h1>
 <h3 align="center">A coding enthusiast from India</h3>
 <img align="right" width=340 height=300 src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
@@ -39,7 +38,5 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
     </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazeer-18&show_icons=true&locale=en&layout=compact" alt="nazeer-18" /></p>
-<br> &nbsp;
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nazeer-18&show_icons=true&locale=en" alt="nazeer-18" /></p>
-<br> &nbsp;
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nazeer-18&" alt="nazeer-18" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nazeer-18&show_icons=true&locale=en" alt="nazeer-18" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nazeer-18&" alt="nazeer-18" /></p>
