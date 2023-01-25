@@ -12,19 +12,19 @@
 
 - 📫 How to reach me **shaiknazeer297@outlook.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Coding Platforms: </h3>
 <p align="left">
 <a href="https://www.codechef.com/users/shaik_nazeer" target="blank"><img align="center" src="https://vinitshahdeo.github.io/CodeChef-VIT-Website/img/about/logo.jpeg" alt="CODECHEF" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shaik-nazeer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LEETCODE" height="30" width="40" /></a>
  <a href="https://auth.geeksforgeeks.org/user/shaiknazeer2971" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" alt="GFG" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shaiknazeer297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HACKERRANK" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/shaik_nazeer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="CODEFORCES" height="30" width="40" /></a>
+<h3 align="left">Connect with me:</h3>
+ <p align="left">
  <a href="https://linkedin.com/in/shaiknazeer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LINKEDIN" height="30" width="40" /></a>
 <a href="https://instagram.com/nazeer._.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="INSTAGRAM" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/shaik_nazeer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="CODEFORCES" height="30" width="40" /></a>
-
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazeer-18" alt="nazeer-18" /></a> </p>
 
 <h3 align="left"> Programming Languages </h3>
 <p align="left">
@@ -37,10 +37,8 @@
 </p>
 <h3 align="left"> Database</h3>
 <p align="left">
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-    </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazeer-18&show_icons=true&locale=en&layout=compact" alt="nazeer-18" /></p>
-&nbsp;&nbsp;
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nazeer-18&show_icons=true&locale=en" alt="nazeer-18" /></p>
-&nbsp;&nbsp;
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nazeer-18&" alt="nazeer-18" /></p>
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></p>
+ <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nazeer-18&show_icons=true&locale=en&layout=compact" alt="nazeer-18" /></p>
+<p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazeer-18" alt="nazeer-18" /></a> </p>
+<p><img  src="https://github-readme-stats.vercel.app/api?username=nazeer-18&show_icons=true&locale=en" alt="nazeer-18" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=nazeer-18&" alt="nazeer-18" /></p>
