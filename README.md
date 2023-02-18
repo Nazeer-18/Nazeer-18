@@ -38,7 +38,7 @@
 <h3 align="left"> Database</h3>
 <p align="left">
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></p>
- <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nazeer-18&show_icons=true&locale=en&layout=compact" alt="nazeer-18" /></p>
-<p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazeer-18" alt="nazeer-18" /></a> </p>
-<p><img  src="https://github-readme-stats.vercel.app/api?username=nazeer-18&show_icons=true&locale=en" alt="nazeer-18" /></p>
+ <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nazeer-18&show_icons=true&locale=en&theme=radical" alt="nazeer-18" /></p>
+ <p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?&theme=radical&username=nazeer-18" alt="nazeer-18" /></a> </p>
+<p><img  src="https://github-readme-stats.vercel.app/api?username=nazeer-18&show_icons=true&locale=en&theme=radical" alt="nazeer-18" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=nazeer-18&" alt="nazeer-18" /></p>
